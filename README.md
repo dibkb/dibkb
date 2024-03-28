@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/dkborborah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dkborborah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dibkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibkb" height="30" width="40" /></a>
-<a href="https://kaggle.com/dibkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dibkb" height="30" width="40" /></a>
+<a href="https://kaggle.com/dibkb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dibkb" height="30" width="40" /></a>
 <a href="https://instagram.com/dib.kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dib.kb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/00hdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="00hdin" height="30" width="40" /></a>
 </p>
