@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dibas9110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ctM2i_diiV4OPADC2kzaMNCaRI9gy7F0/view](https://drive.google.com/file/d/1ctM2i_diiV4OPADC2kzaMNCaRI9gy7F0/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
