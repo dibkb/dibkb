@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dibas</h1>
+<h1 align="center">Hello 👋, I'm Dibas</h1>
 <h3 align="center">I am a  Versatile full stack engineer currently pursuing a Master's in AI and ML, with hands-on experience in fast-paced startup environments. </h3>
 
 
